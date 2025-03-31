@@ -39,6 +39,3 @@
 ### 👀 Visitor Counter:
 ![Visitor Count](https://komarev.com/ghpvc/?username=pramodh42&color=blue&style=flat-square)
 
----
-
-⭐ **If you find my work helpful, consider giving a star to my projects!** ⭐
