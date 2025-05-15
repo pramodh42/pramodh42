@@ -7,7 +7,7 @@
   
 </div>
 
-#  Software Engineer at Taxmann Technologies
+#  Software Engineer | Freelancer | Coder | Learner
 
 
 ### 🛠 About Me:
